@@ -1,3 +1,17 @@
+# 여행 웹사이트 제작
+
+여행을 주제로 웹사이트를 만들었습니다.
+
+## TRVL main page
+
+메인 페이지를 반응형으로 작업했습니다. 배경화면은 비디오를 삽입해서 역동적으로 표현했습니다.
+여행지 이미지를 hover했을 경우 이미지 scale을 이용해서 강조를 주었습니다.
+Home.js로 메인 페이지를 구성하였습니다. (Navbar은 제외)
+
+## 미디어 쿼리 설정
+
+@media only를 이용하여 미디어 쿼리를 지원하지 않는 브라우저가 주어진 스타일을 적용하는것을 방지하였습니다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
